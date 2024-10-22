@@ -3,7 +3,7 @@ package org.factoriaf5.springboot.controllers;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.factoriaf5.springboot.model.Country;
+import org.factoriaf5.springboot.models.Country;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

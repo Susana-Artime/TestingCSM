@@ -1,4 +1,4 @@
-package org.factoriaf5.springboot.model;
+package org.factoriaf5.springboot.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

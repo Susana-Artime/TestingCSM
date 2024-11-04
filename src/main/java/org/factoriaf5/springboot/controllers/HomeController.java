@@ -8,7 +8,7 @@ public class HomeController {
     
     @GetMapping(path = "")
     public String index() {
-        return "Hello SpringBoot";
+        return "Hello Spring Boot";
     }
 
 }
